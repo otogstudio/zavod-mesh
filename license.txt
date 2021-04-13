@@ -1,0 +1,11 @@
+Model Information:
+* title:	zavod-mesh-website-model
+* source:	https://sketchfab.com/3d-models/zavod-mesh-website-model-32c6e5fe077c48c19d66a2cfff968a51
+* author:	otogstudio (https://sketchfab.com/otogstudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "zavod-mesh-website-model" (https://sketchfab.com/3d-models/zavod-mesh-website-model-32c6e5fe077c48c19d66a2cfff968a51) by otogstudio (https://sketchfab.com/otogstudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
